@@ -342,7 +342,7 @@ const projects = [
               <h3 className="about-title">Hello! I'm James Ekasiba</h3>
               <p className="about-text">
                 A Product Designer and Mechanical Engineering student at
-                Multimedia University of Kenya, with a passion for creating
+                Technical University of Kenya, with a passion for creating
                 technology solutions that empower underserved communities. I
                 specialize in designing accessible products that bridge the gap
                 between user needs and technical feasibility.
@@ -395,7 +395,7 @@ const projects = [
                     </h5>
                     <p className="timeline-date">2020-2024 (Expected)</p>
                     <p className="timeline-company">
-                      Multimedia University of Kenya
+                      Technical University of Kenya
                     </p>
                     <p className="timeline-description">
                       Focus on assistive technology, product design, and
