@@ -279,7 +279,7 @@ const projects = [
                 <div className="profile-ring"></div>
                 <div className="profile-inner">
                   <img
-                    src="/assets/james.png"
+                    src="/assets/james.jpeg"
                     alt="James Ekasiba"
                     className="profile-image"
                   />
